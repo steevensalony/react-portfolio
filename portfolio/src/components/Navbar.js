@@ -18,7 +18,7 @@ export default function Navbar() {
           <NavLink className="mr-5 hover:text-white" to='/skills'>
             Skills
           </NavLink>
-          <NavLink className="mr-5 hover:text-white" to='/testimonials'>
+          <NavLink className="mr-5 hover:text-white" to='/resumes'>
             Resume
           </NavLink>
         </nav>
