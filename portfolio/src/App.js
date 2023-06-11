@@ -10,7 +10,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 export default function App() {
   return (
     <main className="text-gray-400 bg-gray-900 body-font">
-      <BrowserRouter>
+      <BrowserRouter basename={window.location.pathname || ''}>
       <Navbar />
         <Routes>
           <Route exact path='react-portfolio/' element={<About />} />
