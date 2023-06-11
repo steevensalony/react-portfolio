@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "steevensalony.github.io/react-portfolio",
+  "homepage": "https://steevensalony.github.io/react-portfolio",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
