@@ -13,12 +13,12 @@ export default function App() {
       <BrowserRouter basename={window.location.pathname || ''}>
       <Navbar />
         <Routes>
-          <Route exact path='react-portfolio/' element={<About />} />
-          <Route path='react-portfolio/about' element={<About />} />
-          <Route path='react-portfolio/projects' element={<Projects />} />
-          <Route path='react-portfolio/skills' element={<Skills />} />
-          <Route path='react-portfolio/resumes' element={<Resume />} />
-          <Route path='react-portfolio/contact' element={<Contact />} />
+          <Route exact path='/' element={<About />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/projects' element={<Projects />} />
+          <Route path='/skills' element={<Skills />} />
+          <Route path='/resumes' element={<Resume />} />
+          <Route path='/contact' element={<Contact />} />
         </Routes>
       </BrowserRouter>
     </main>
