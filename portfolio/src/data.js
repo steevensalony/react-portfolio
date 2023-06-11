@@ -49,7 +49,7 @@ export const projects = [
   },
 ];
 
-export const Resume = [
+export const resumes = [
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
