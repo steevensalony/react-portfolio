@@ -4,7 +4,6 @@
   "homepage": "https://steevensalony.github.io/react-portfolio",
   "private": true,
   "dependencies": {
-    "@craco/craco": "^5.9.0",
     "@heroicons/react": "^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -12,12 +11,12 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "start": "craco start",
+    "start": "react-scripts start",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
-    "build": "craco build",
-    "test": "craco test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
   },
   "eslintConfig": {
     "extends": [
