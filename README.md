@@ -1,6 +1,6 @@
 # Portfolio
 
-![](https://github.com/steevensalony/weather-dashboard/blob/main/assets/images/Screenshot%202023-02-24%20at%208.42.57%20PM.png)
+<img width="2220" alt="Screenshot 2023-06-12 at 4 38 37 PM" src="https://github.com/steevensalony/react-portfolio/assets/108702715/bd467de3-e88b-4971-9b8f-b1da72fb6759">
 
 ## Description
 
